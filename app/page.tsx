@@ -56,8 +56,8 @@ export default function Home() {
         </div>
 
         <div className='prose max-w-none prose-lg pt-8 pb-8 dark:prose-invert xl:col-span-2'>
-          <p><strong>About Me:</strong> I'm Ryan Nishimoto, a full-stack developer with a unique journey into the world of web development. From my early days as an automotive technician, I transitioned into the dynamic field of coding and graduated from General Assembly.</p>
-          <p><strong>My Journey:</strong> My path into web development may not be traditional, but it's been driven by an insatiable curiosity for technology. I was astounded by the rapidly evolving tech landscape in the automotive industry, which inspired me to dive headfirst into coding. My decision to pursue a coding career was motivated by a desire to embrace innovation, solve complex problems, and create digital solutions.</p>
+          <p><strong>About Me:</strong> I&apos;m Ryan Nishimoto, a full-stack developer with a unique journey into the world of web development. From my early days as an automotive technician, I transitioned into the dynamic field of coding and graduated from General Assembly.</p>
+          <p><strong>My Journey:</strong> My path into web development may not be traditional, but it&apos;s been driven by an insatiable curiosity for technology. I was astounded by the rapidly evolving tech landscape in the automotive industry, which inspired me to dive headfirst into coding. My decision to pursue a coding career was motivated by a desire to embrace innovation, solve complex problems, and create digital solutions.</p>
         </div>
       </div>
     </div>
